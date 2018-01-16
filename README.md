@@ -5,8 +5,9 @@
 
 #### 实现的原理:
 ```
-- 使用 echarts 画好世界地图(canvas)
-- 把画好的地图贴到三维的球体上
+1、使用 echarts 画好世界地图(canvas)
+
+2、把画好的地图贴到三维的球体上
 
 ```
 #### 需要注意的点：
@@ -19,7 +20,9 @@ boundingCoords: [
     [180, -90]
 ]
 ```
+
 2、注意 echarts 的版本
+
 3、你肯定不想你的地球还有点奇怪的节奏感
 ```
 mapTexture.needsUpdate = true;
