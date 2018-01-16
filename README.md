@@ -1,7 +1,7 @@
 ## 一颗被病毒感染的地球
 
 #### 用 中国地图和世界地图的 geoJson 数据，基于 Three.js + echarts(V3.8.5) 实现的三维地图
-[LIVE DEMO](https://hujiulong.github.io/echarts-threejs-earth/)
+[LIVE DEMO](https://jiangyuzhen.github.io/GeoJson-Three-Earth/)
 
 #### 实现的原理:
 ```
